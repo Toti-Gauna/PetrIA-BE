@@ -1,0 +1,21 @@
+# Secrets: never commit. Only .env.example is allowed.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Java / Gradle / Maven
+target/
+build/
+.gradle/
+*.class
+*.log
