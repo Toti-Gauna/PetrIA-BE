@@ -8,7 +8,7 @@ PetrIA estimates productivity from existing wells. It does not discover oil,
 and it is not drilling or investment advice.
 
 ## Status
-Planned: Stage 3 (core) and Stage 5 (auth and tenants). Nothing is implemented yet.
+Planned: version 1.0 (core read-only API) and 1.1 (login and tenants). Nothing is implemented yet.
 
 ## Planned stack
 Java 21, Spring Boot, Spring Security, JPA, Flyway, OpenAPI, JUnit + Testcontainers
