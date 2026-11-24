@@ -1,0 +1,11 @@
+# Keep secrets and bulk out of every image built from this folder.
+.git
+.github
+.env
+.env.*
+!.env.example
+target
+build
+.gradle
+.idea
+*.md
